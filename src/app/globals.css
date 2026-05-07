@@ -120,20 +120,24 @@ body {
   font-family: var(--font-inter), sans-serif;
 }
 
-.font-seaweed_script {
-  font-family: var(--font-seaweed_script), sans-serif;
+.font-fraunces {
+  font-family: var(--font-fraunces), sans-serif;
 }
 
-.font-cinzel_decorative {
-  font-family: var(--font-cinzel_decorative), sans-serif;
+.font-geist {
+  font-family: var(--font-geist), sans-serif;
 }
 
-.font-cinzel {
-  font-family: var(--font-cinzel), sans-serif;
+.font-freehand {
+  font-family: var(--font-freehand), sans-serif;
 }
 
-.font-Playfair_Display {
-  font-family: var(--font-playfair_display), sans-serif;
+.font-Meie_Script {
+  font-family: var(--font-meie_script), sans-serif;
+}
+
+.font-bebas_neue {
+  font-family: var(--font-bebas_neue);
 }
 
 @layer base {
