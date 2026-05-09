@@ -10,7 +10,7 @@ const HeroSection = () => {
       <Circle className="top-10 left-10 bg-red-700/20" />
       <Circle className="top-11 left-20 bg-red-700/20" />
       <Container>
-        <div className="md:py-28 py-16 flex gap-10 justify-between flex-wrap w-full z-10">
+        <div className="md:pt-28 pt-16 pb-10 flex gap-10 justify-between flex-wrap w-full z-10">
           <div className="max-w-170.75 w-full sm:min-w-125 min-w-70">
             <div className="">
               <h2 className="leading-[0.74] tracking-[-0.06em] text-[48px] sm:text-[72px] md:text-[100px] lg:text-[131.66px] font-Meie_Script text-white/90">
