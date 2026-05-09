@@ -6,7 +6,15 @@ import PrizeWrapper from "@/components/molecules/PrizeWrapper/PrizeWrapper";
 
 const PrizeSection = () => {
   return (
-    <div className="pb-16">
+    <div
+      className="py-16"
+      style={{
+        background: "url('/assets/images/bg3.png')",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
+      }}
+    >
       <Container>
         <div className="">
           <div className="flex justify-center items-center flex-col gap-4">

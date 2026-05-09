@@ -8,3 +8,9 @@ export interface ApiErrorResponse {
     data?: ApiErrorData;
   };
 }
+
+export interface optionsType {
+  label: string;
+  value: string;
+  color?: string;
+}
